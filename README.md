@@ -102,7 +102,7 @@ The model is deployed as a **Streamlit** web application. Users can upload patie
         └── sources/
             └── thyroid_disease_detection.ipynb
 
-## Authors
+## Project Members
 -Vivek Deshmukh | <a href="https://github.com/vivekd16">Github</a> | <a href="https://www.linkedin.com/in/vivek-deshmukh-66845822b/">Linkedin</a>
 
 -Maviya Mahagami | <a href="https://github.com/Maviya13">Github</a> | <a href="https://www.linkedin.com/in/maviyamahagami/">Linkedin</a>
