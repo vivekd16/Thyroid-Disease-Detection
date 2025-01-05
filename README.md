@@ -103,10 +103,9 @@ The model is deployed as a **Streamlit** web application. Users can upload patie
             └── thyroid_disease_detection.ipynb
 
 ## Authors
-- [Vivek Deshmukh](https://github.com/vivekd16) 
-- [Linkedin](https://www.linkedin.com/in/vivek-deshmukh-66845822b/)
-- [Maviya Mahagami](https://github.com/Maviya13)
-- [Linkedin](https://www.linkedin.com/in/maviyamahagami/)
+-Vivek Deshmukh | <a href="https://github.com/vivekd16">Github</a> | <a href="https://www.linkedin.com/in/vivek-deshmukh-66845822b/">Linkedin</a>
+
+-Maviya Mahagami | <a href="https://github.com/Maviya13">Github</a> | <a href="https://www.linkedin.com/in/maviyamahagami/">Linkedin</a>
 
 ## Acknowledgments
 - [Kaggle Thyroid Disease Dataset](https://www.kaggle.com/datasets/faizunnabi/thyroid-disease-dataset)
