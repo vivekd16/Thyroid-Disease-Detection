@@ -447,7 +447,6 @@ age,sex,on_thyroxine,query_on_thyroxine,on_antithyroid_meds,sick,pregnant,thyroi
 42,F,f,f,f,f,f,f,f,f,f,f,f,t,f,f,t,0.1,t,2.4,t,116,t,1.05,t,110,f,,SVI,-,840918061
 72,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.1,t,1.6,t,106,t,1.86,t,123,f,,SVI,-,840918062
 42,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.3,t,2,t,90,t,0.98,t,92,f,,other,-,840918073
-60,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.1,t,3.3,t,225,t,1.14,t,197,f,,other,N,840918077
 30,F,t,f,f,f,f,f,f,t,f,f,f,f,f,f,f,,f,,f,,f,,f,,t,33,other,S,840918089
 30,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.1,t,1.5,t,101,f,,f,,f,,SVI,-,840919002
 48,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.1,t,2,t,86,f,,f,,f,,SVI,-,840919003
