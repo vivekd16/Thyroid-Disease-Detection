@@ -47,7 +47,7 @@ The model achieved exceptional results:
 | Hypothyroidism (2)  | 95%       | 98%    | 96%      | 124     |
 
 ### Confusion Matrix:
-![Confusion Matrix](img/confusion matrix.png)
+<img src="img/confusion matrix.png">
 
 ## Deployment
 The model is deployed as a **Streamlit** web application. Users can upload patient data in CSV format and get predictions directly on the web.
