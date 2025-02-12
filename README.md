@@ -99,7 +99,7 @@ The model is deployed as a **Streamlit** web application. Users can upload patie
         │       └── thyroidDF.csv
         ├── model/
         │   └── thyroid_disease_model.pkl
-        └── sources/
+        └── src/
             └── thyroid_disease_detection.ipynb
 
 ## Project Members
